@@ -7,8 +7,8 @@
     <img src="https://media.tenor.com/ea9b1f933f69e6fe35a3fe180d6c94b6/tenor.gif" alt="Cat typing on a laptop" width="300" height="300"/>
 </p>
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+## Ferramentas e Tecnologias
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40"/>
           
            
 ## Linkedin:
