@@ -3,9 +3,6 @@
 
 - 🌱 I’m a beginner in the world of programming, and I’m loving every little thing I’m learning.
 <div class="tenor-gif-embed" data-postid="26024704" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-gif-26024704">Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<p align="center">
-    <img src="https://media.tenor.com/ea9b1f933f69e6fe35a3fe180d6c94b6/tenor.gif" alt="Cat typing on a laptop" width="40" height="40"/>
-</p>
 
 ## Ferramentas e Tecnologias
 
