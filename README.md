@@ -21,7 +21,7 @@ My name is Tainá, but you can call me Tai.
 ---
 
 <p align="center">
-    <img src="https://media.tenor.com/images/47c340bc9179bfe51623ac33b7126fbb/tenor.gif" alt="Cat typing on a laptop" width="300" height="300"/>
+    <img src="https://media.tenor.com/images/ea9b1f933f69e6fe35a3fe180d6c94b6/tenor.gif" alt="Cat typing on a laptop" width="300" height="300"/>
 </p>
 
 <!-- 
