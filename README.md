@@ -3,8 +3,9 @@
 
 - 🌱 I’m a beginner in the world of programming, and I’m loving every little thing I’m learning.
 <p align="center">
-    <img src="[https://media.tenor.com/images/abc123/tenor.gif](https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif)" alt="Cat typing on a laptop" width="300" height="300"/>
+  <img src="https://media.tenor.com/images/ea9b1f933f69e6fe35a3fe180d6c94b6/tenor.gif" alt="Cat typing on a laptop" width="300" height="300"/>
 </p>
+
 
 ## Ferramentas e Tecnologias
 
