@@ -2,9 +2,8 @@
 ## My name is Tainá, but you can call me Tai. 👋
 
 - 🌱 I’m a beginner in the world of programming, and I’m loving every little thing I’m learning.
-<p align="center">
-  <img src="https://media.tenor.com/images/ea9b1f933f69e6fe35a3fe180d6c94b6/tenor.gif" alt="Cat typing on a laptop" width="300" height="300"/>
-</p>
+![Cat GIF](https://media.tenor.com/images/ea9b1f933f69e6fe35a3fe180d6c94b6/tenor.gif)
+
 
 
 ## Ferramentas e Tecnologias
